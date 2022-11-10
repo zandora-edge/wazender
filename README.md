@@ -81,6 +81,7 @@ wazender.sendmsg('users.txt', 'msg.txt', path=path, attach=attach)
 ## Authors
 
 - [@zandora-space](https://www.github.com/zandora-space)
+- [@Ram-zandora](https://github.com/Ram-zandora)
 
 
 ## Support
